@@ -28,4 +28,4 @@ The home page that Team Space generates will allow you to easily identify job ro
 
 ## License 
 
-MIT
+Unlicense
